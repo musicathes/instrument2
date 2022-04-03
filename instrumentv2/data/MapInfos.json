@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Room","order":5,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":2,"expanded":true,"name":"Stage","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":3,"expanded":true,"name":"Game Mode","order":2,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":4,"expanded":true,"name":"Classroom Mode","order":3,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"MAP005","order":4,"parentId":4,"scrollX":655.2,"scrollY":368.8},
+null,
+{"id":7,"expanded":false,"name":"MAP007","order":6,"parentId":0,"scrollX":655.2,"scrollY":368.8}
+]
